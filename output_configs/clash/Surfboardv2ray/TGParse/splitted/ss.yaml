@@ -1,60 +1,104 @@
 proxies:
+  - {name: "[SS] مخصوص اینستا🥰😍", server: 45.76.32.242, port: 50868, type: ss, cipher: 2022-blake3-aes-256-gcm, password: 3HA0zkWjyacL9Nggs9D+F4Bk8ge9Gn4DTj8fViOPoCE=:IY2Zb+wRyW+7s2URN+RQG1uX6L9W8HegXQi/wMlPbns=, tfo: false}
   - {name: "[SS] •Tel: @Proxy_Vpney (2)", server: 51.89.118.24, port: 8080, type: ss, cipher: 2022-blake3-aes-256-gcm, password: 2KvnGnr4/l3OiRf4Hb2Q3GMbK5/HbTfzJW/rKd/u250=:kCxhVDESZJmT4zuXHCGdiO7QgXLcLFadzmaFLydbzF8=, tfo: false}
-  - {name: "[SS] 🇮🇷34747 | ⚡️Telegram - t.me/SOSkeyNET", server: 188.121.115.214, port: 16186, type: ss, cipher: 2022-blake3-aes-256-gcm, password: ImMTTLdxTBJzUxxL+aiSYjSFyA/PXUsjj+Hvk6lUHbk=:ilNeRiiaJzsORsJ6OGmj9sc5iM5H4I62H8N5Zf6T7oQ=, tfo: false}
-  - {name: "[SS] 🇮🇷34767 | ⚡️Telegram - t.me/SOSkeyNET", server: 188.213.197.232, port: 29691, type: ss, cipher: 2022-blake3-aes-256-gcm, password: ihQZeoRVUSZ/S9pdU/rToI5uWtewlSt2LOmMx955/KI=:1plZ09fm5kQm0SGH3W5Dnk2blKVDfpF/7rm64tiPw7M=, tfo: false}
+  - {name: "[SS] 🌝41@oneclickvpnkeys", server: 5.230.184.16, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 453u6Gcei04NyXbrWLKa0M, tfo: false}
+  - {name: "[SS] [67065] - Telegram : @V2All", server: 80.208.229.172, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 4LuSQluWs3meAy5vOo7ikZ, tfo: false}
+  - {name: "[SS] 🌝91@oneclickvpnkeys", server: 80.208.229.172, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 4LuSQluWs3meAy5vOo7ikZ, tfo: false}
+  - {name: "[SS] 🌝47@oneclickvpnkeys", server: 193.29.139.157, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
   - {name: "[SS] 🫜23@oneclickvpnkeys", server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, tfo: false}
-  - {name: "[SS] 🇺🇸34732 | ⚡️Telegram - t.me/SOSkeyNET", server: 62.146.231.112, port: 12012, type: ss, cipher: chacha20-ietf-poly1305, password: 4e287631dc4fc8fc, tfo: false}
-  - {name: "[SS] @v2rayconfigamir 3810", server: 139.59.87.22, port: 16970, type: ss, cipher: chacha20-ietf-poly1305, password: 6ThD1AgwXc8Stpp7hEohLa, tfo: false}
-  - {name: "[SS] 🫜52@oneclickvpnkeys", server: 145.249.109.13, port: 4917, type: ss, cipher: chacha20-ietf-poly1305, password: 7DoWqLxD5CMubpT1tzIyWX, tfo: false}
-  - {name: "[SS] @filembad", server: 111.248.85.245, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo: false}
-  - {name: "[SS] 🇨🇳 👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Taipei🅿️ping:309.52ms", server: 111.248.85.245, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo: false}
+  - {name: "[SS] [67058] - Telegram : @V2All", server: 62.146.231.112, port: 12012, type: ss, cipher: chacha20-ietf-poly1305, password: 4e287631dc4fc8fc, tfo: false}
+  - {name: "[SS] 🌝99@oneclickvpnkeys", server: 62.146.231.112, port: 12012, type: ss, cipher: chacha20-ietf-poly1305, password: 4e287631dc4fc8fc, tfo: false}
+  - {name: "[SS] 🇳🇱37324 | ⚡️Telegram - t.me/SOSkeyNET", server: 195.93.253.240, port: 14130, type: ss, cipher: chacha20-ietf-poly1305, password: 5DJXRpmi3iyqxQ79PfKv3B, tfo: false}
+  - {name: "[SS] 🇺🇸37323 | ⚡️Telegram - t.me/SOSkeyNET", server: 142.93.183.235, port: 20683, type: ss, cipher: chacha20-ietf-poly1305, password: 5vldsNMbQ8B4cKDK0sROwj, tfo: false}
+  - {name: "[SS] filembad-4", server: 51.75.168.50, port: 26179, type: ss, cipher: chacha20-ietf-poly1305, password: 78b6e93e54225803, tfo: false}
+  - {name: "[SS] @v2rayconfigamir 3064", server: ss.043.node-for-bigairport.win, port: 19001, type: ss, cipher: chacha20-ietf-poly1305, password: 792e0bdb-01db-450c-94c4-925151eb396e, tfo: false}
   - {name: "[SS] TEL;FATHER_VPN¹⁶", server: 111.248.88.150, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo: false}
-  - {name: "[SS] filembad-4", server: nbmrcg0034686rw.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo: false}
+  - {name: "[SS] T.me/erfwp", server: r3mrcg001269pz2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo: false}
+  - {name: "[SS] T.me/erfwp 2", server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, tfo: false}
   - {name: "[SS] @v2rayngzendegimamad🕊️", server: 141.95.109.160, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 823cdb94a457faee, tfo: false}
-  - {name: "[SS] @v2rayconfigamir 6589", server: 178.162.165.202, port: 21114, type: ss, cipher: chacha20-ietf-poly1305, password: 0lirUrGQIf6s, tfo: false}
+  - {name: "[SS] 🌝59@oneclickvpnkeys", server: 45.91.171.108, port: 158, type: ss, cipher: chacha20-ietf-poly1305, password: -jd43ayn1mxzQ4t6dEI7OQ, tfo: false}
   - {name: "[SS] @CUSTOMVPNSERVER", server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, tfo: false}
   - {name: "[SS] ⚡Telegram -@CUSTOMVPNSERVER", server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, tfo: false}
-  - {name: "[SS] 🇩🇪 Join Telegram:@Farah_VPN 🇩🇪", server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, tfo: false}
-  - {name: "[SS] 🇩🇪  @Argo_VPN1", server: 57.129.121.230, port: 10443, type: ss, cipher: chacha20-ietf-poly1305, password: uROuEqsL8IUMMVb4wDwnGU, tfo: false}
+  - {name: "[SS] @APPXA-GE", server: 57.129.121.230, port: 10443, type: ss, cipher: chacha20-ietf-poly1305, password: uROuEqsL8IUMMVb4wDwnGU, tfo: false}
+  - {name: "[SS] ⚡@V2ray_official", server: 57.129.121.230, port: 10443, type: ss, cipher: chacha20-ietf-poly1305, password: uROuEqsL8IUMMVb4wDwnGU, tfo: false}
   - {name: "[SS] 🇫🇮 @ProxyVPN11", server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, tfo: false}
   - {name: "[SS] 🌾 @ProxyVPN11", server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, tfo: false}
-  - {name: "[SS] @v2rayconfigamir 7759", server: 176.126.83.158, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
-  - {name: "[SS] @v2rayconfigamir 1786", server: 37.143.130.203, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, tfo: false}
-  - {name: "[SS] 🫜35@oneclickvpnkeys", server: 78.40.117.161, port: 34633, type: ss, cipher: chacha20-ietf-poly1305, password: CZjvepQLlrEC9sVxkFfnlK, tfo: false}
+  - {name: "[SS] @Vpn_jet7", server: 45.95.233.55, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: ySJjHiy8mRGHz0Nk7qVLkd, tfo: false}
+  - {name: "[SS] 🏠37311 | ⚡️Telegram - t.me/SOSkeyNET", server: 127.0.0.1, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: BSigurPoC_otH0huidT81GoBLRSgwpgT, tfo: false}
+  - {name: "[SS] @Net2ray ZA❤️‍🔥", server: 4.168.201.153, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: CJjVIvHNqbrAmW3H, tfo: false}
+  - {name: "[SS] @hi_proxy_iran :👈کانال تلگرام", server: 4.168.201.153, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: CJjVIvHNqbrAmW3H, tfo: false}
+  - {name: "[SS] @meliproxyy", server: 4.168.201.153, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: CJjVIvHNqbrAmW3H, tfo: false}
+  - {name: "[SS] TEL;Father_vpn⁶", server: 4.168.201.153, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: CJjVIvHNqbrAmW3H, tfo: false}
+  - {name: "[SS] ⚡@V2ray_official 2", server: 4.168.201.153, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: CJjVIvHNqbrAmW3H, tfo: false}
+  - {name: "[SS] 𝗗𝗔𝗟𝗧𝗢𝗡", server: 4.168.201.153, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: CJjVIvHNqbrAmW3H, tfo: false}
+  - {name: "[SS] 🌪️Tel--@V2rayAlpha--1", server: 4.168.201.153, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: CJjVIvHNqbrAmW3H, tfo: false}
   - {name: "[SS] TEL;FATHER_VPN³", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: ER2xCcJkmR1pftmN300CNJ, tfo: false}
-  - {name: "[SS] @v2rayconfigamir 3353", server: 178.162.164.142, port: 31558, type: ss, cipher: chacha20-ietf-poly1305, password: GJtJKYlAAuva, tfo: false}
   - {name: "[SS] 🇬🇧  📦 حجم مصرف: 44.54 GB ┃ 📈 حجم باقی: ∞ ┃ ⏳ زمان باقی: 14d", server: 10101, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: GmzV6tUmz-h6jBmnskyYO6c6EQ1EOgWV, tfo: false}
   - {name: "[SS] @FREECONFIGSPLUS", server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: KNWTeJ1EjZU3z7EQ, tfo: false}
-  - {name: "[SS] @filtershekan_channel |4", server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: KNWTeJ1EjZU3z7EQ, tfo: false}
   - {name: "[SS] TEL;FATHER_VPN¹⁰", server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: KNWTeJ1EjZU3z7EQ, tfo: false}
+  - {name: "[SS] @Filtershekan_channel |3", server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: L1mdXFQq3u611ZIB, tfo: false}
+  - {name: "[SS] @Net2ray ZA❤️‍🔥 2", server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: L1mdXFQq3u611ZIB, tfo: false}
   - {name: "[SS] @RzChanel1", server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: L1mdXFQq3u611ZIB, tfo: false}
+  - {name: "[SS] @v2raybaaz 🎲", server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: L1mdXFQq3u611ZIB, tfo: false}
+  - {name: "[SS] @vpnbaz 🍭", server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: L1mdXFQq3u611ZIB, tfo: false}
   - {name: "[SS] TEL;FATHER_VPN⁹", server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: L1mdXFQq3u611ZIB, tfo: false}
-  - {name: "[SS] 🐏6@oneclickvpnkeys", server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, tfo: false}
-  - {name: "[SS] [65935] - Telegram : @V2All", server: 144.31.96.174, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: VEFFUGZkNtbTGAGde4vUQjqnGST-bgTP, tfo: false}
-  - {name: "[SS] 🫜63@oneclickvpnkeys", server: 144.31.96.174, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: VEFFUGZkNtbTGAGde4vUQjqnGST-bgTP, tfo: false}
+  - {name: "[SS] @v2rayconfigamir 9739", server: 149.104.109.74, port: 21273, type: ss, cipher: chacha20-ietf-poly1305, password: Ll6cYfXM5DzQbdtMMb72A_jqVnNljU3yqe, tfo: false}
+  - {name: "[SS] 🌍37232 | ⚡️Telegram - t.me/SOSkeyNET", server: vip10.zarins.ir, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Nm1HFR-RZiAZQM0hIfV-wJbC_LfwBTzn, tfo: false}
+  - {name: "[SS] 🇮🇷37233 | ⚡️Telegram - t.me/SOSkeyNET", server: vip9.myspacex.shop, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: Nm1HFR-RZiAZQM0hIfV-wJbC_LfwBTzn, tfo: false}
+  - {name: "[SS] @filembad", server: 4.168.201.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: OuG7PItcJrf8clK1, tfo: false}
+  - {name: "[SS] 🇿🇦37336 | ⚡️Telegram - t.me/SOSkeyNET", server: 4.168.201.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: OuG7PItcJrf8clK1, tfo: false}
+  - {name: "[SS] T.me/erfwp 3", server: 154.46.31.106, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: QFWzCw2uX9B9i6qAYeFBIE, tfo: false}
+  - {name: "[SS] 🌝2@oneclickvpnkeys", server: 5.253.59.156, port: 32140, type: ss, cipher: chacha20-ietf-poly1305, password: RNYRfU1LsnP2TV4q0bT4KJ, tfo: false}
   - {name: "[SS] @KAFING_2", server: 20.254.21.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
   - {name: "[SS] @v2rayngzendegimamad🕊️ 2", server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
   - {name: "[SS] @v2rayngzendegimamad🕊️ 3", server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false}
-  - {name: "[SS] 🐏1@oneclickvpnkeys", server: 159.223.236.36, port: 19582, type: ss, cipher: chacha20-ietf-poly1305, password: WC0GbiCk67K8nHDaDHmYIX, tfo: false}
-  - {name: "[SS] outline_ir", server: 46.246.97.140, port: 53908, type: ss, cipher: chacha20-ietf-poly1305, password: ZweuXavjovuhzt1AF0d6qx, tfo: false}
+  - {name: "[SS] 🏳️ Join Telegram:@Farah_VPN 🏳️", server: 194.87.39.215, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: X6btbRvJCo3uTQ--yaaT8Mvh0CgqhYTL, tfo: false}
+  - {name: "[SS] @filembad 2", server: 4.168.201.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XEnZedp2mkTbT1qC, tfo: false}
+  - {name: "[SS] @oliver_soul", server: 4.168.201.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XEnZedp2mkTbT1qC, tfo: false}
+  - {name: "[SS] oliver_soul", server: 4.168.201.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XEnZedp2mkTbT1qC, tfo: false}
+  - {name: "[SS] saministamm", server: 4.168.201.246, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: XEnZedp2mkTbT1qC, tfo: false}
+  - {name: "[SS] @filembad 3", server: vip3.myspacex.shop, port: 20700, type: ss, cipher: chacha20-ietf-poly1305, password: YuRt6AX9P4NiutTwoDMvDTrxIjo_lsGr, tfo: false}
+  - {name: "[SS] oliver_soul 2", server: vip3.myspacex.shop, port: 20700, type: ss, cipher: chacha20-ietf-poly1305, password: YuRt6AX9P4NiutTwoDMvDTrxIjo_lsGr, tfo: false}
+  - {name: "[SS] saministamm 2", server: vip3.myspacex.shop, port: 20700, type: ss, cipher: chacha20-ietf-poly1305, password: YuRt6AX9P4NiutTwoDMvDTrxIjo_lsGr, tfo: false}
+  - {name: "[SS] @FreeConffning 3", server: vip3.myspacex.shop, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: YuRt6AX9P4NiutTwoDMvDTrxIjo_lsGr, tfo: false}
+  - {name: "[SS] ⚡@V2ray_official 3", server: vip9.myspacex.shop, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: YuRt6AX9P4NiutTwoDMvDTrxIjo_lsGr, tfo: false}
+  - {name: "[SS] @SHOP_GAMING1011", server: vip6.myspacex.shop, port: 8088, type: ss, cipher: chacha20-ietf-poly1305, password: _Y9Ws4nRYw2y8CtGLDMZ-HmEtjSW-u46, tfo: false}
+  - {name: "[SS] @filembad 4", server: vip.tekcloud.site, port: 20900, type: ss, cipher: chacha20-ietf-poly1305, password: _Y9Ws4nRYw2y8CtGLDMZ-HmEtjSW-u46, tfo: false}
+  - {name: "[SS] V2rayng_Fast", server: vip7.tekcloud.site, port: 8088, type: ss, cipher: chacha20-ietf-poly1305, password: _Y9Ws4nRYw2y8CtGLDMZ-HmEtjSW-u46, tfo: false}
+  - {name: "[SS] 🇮🇷 @Iranvasll", server: vip8.myspacex.shop, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: _Y9Ws4nRYw2y8CtGLDMZ-HmEtjSW-u46, tfo: false}
+  - {name: "[SS] oliver_soul 3", server: vip8.myspacex.shop, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: _Y9Ws4nRYw2y8CtGLDMZ-HmEtjSW-u46, tfo: false}
+  - {name: "[SS] saministamm 3", server: vip8.myspacex.shop, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: _Y9Ws4nRYw2y8CtGLDMZ-HmEtjSW-u46, tfo: false}
+  - {name: "[SS] @netzone_ir", server: vip8.myspacex.shop, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: _Y9Ws4nRYw2y8CtGLDMZ-HmEtjSW-u46, tfo: false}
   - {name: "[SS] @v2rayngzendegimamad🕊️ 4", server: 57.129.129.139, port: 29183, type: ss, cipher: chacha20-ietf-poly1305, password: ab0b81a5bff7ddea, tfo: false}
   - {name: "[SS] @v2rayngzendegimamad🕊️ 5", server: 213.156.137.142, port: 43660, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, tfo: false}
   - {name: "[SS] TEL;FATHER_VPN¹¹", server: 20.87.107.99, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: cusSjpT8aJWXP86x, tfo: false}
+  - {name: "[SS] 🇸🇬 Join Telegram:@Farah_VPN 🇸🇬", server: 154.18.239.126, port: 37425, type: ss, cipher: chacha20-ietf-poly1305, password: eLPlIVuRZ6UJyapVDeT++l7fYC0uowXJFlb9qhntAd4=, tfo: false}
   - {name: "[SS] @canfigiop", server: fra.mahoshid.ir, port: 4010, type: ss, cipher: chacha20-ietf-poly1305, password: f19df24cceae307bb1e704d34523cfe7, tfo: false}
   - {name: "[SS] IR-@V2rayAlpha-3", server: 94.131.123.86, port: 35361, type: ss, cipher: chacha20-ietf-poly1305, password: g0UgfsdXOhn8McpdHpWcmo, tfo: false}
-  - {name: "[SS] 🇺🇸 Join Telegram:@Farah_VPN 🇺🇸", server: 71.19.148.74, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: gqkUCvmeOTghYJXF1YIuk5, tfo: false}
-  - {name: "[SS] 🫜20@oneclickvpnkeys", server: 45.83.130.97, port: 53292, type: ss, cipher: chacha20-ietf-poly1305, password: hfSE3thwAQqvSIac5xLpUD, tfo: false}
-  - {name: "[SS] 🇺🇸 Join Telegram:@Farah_VPN 🇺🇸 2", server: 142.93.73.182, port: 45389, type: ss, cipher: chacha20-ietf-poly1305, password: hk1SdyRWbYi3Igxeow9JdN, tfo: false}
-  - {name: "[SS] 🐏5@oneclickvpnkeys", server: 138.68.153.223, port: 46576, type: ss, cipher: chacha20-ietf-poly1305, password: idMvoewrSyLLvEvP03k9zR, tfo: false}
+  - {name: "[SS] [67063] - Telegram : @V2All", server: 147.90.234.133, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, tfo: false}
+  - {name: "[SS] 🌝93@oneclickvpnkeys", server: 147.90.234.133, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, tfo: false}
+  - {name: "[SS] 🇳🇱 👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:36.95ms", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] 🇳🇱 👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:54.8ms", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: "[SS] ✅Tel: @Proxy_Vpney (4)", server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: "[SS] @v2rayngzendegimamad🕊️ 6", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "[SS] 🫜47@oneclickvpnkeys", server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] T.me/erfwp 4", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] @filembad 5", server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] T.me/erfwp 5", server: 82.38.31.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] 🌝50@oneclickvpnkeys", server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] @filembad 6", server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: "[SS] @KAFING_2 2", server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "[SS] v2rayng_vpn403", server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "[SS] 🐏67@oneclickvpnkeys", server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] ⚡@V2ray_official 4", server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] @UnNurmal", server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] @icv2ray", server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] vmesskhodam", server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: "[SS] @v2raybaaz 🌵", server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "[SS] 🇳🇱34742 | ⚡️Telegram - t.me/SOSkeyNET", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] T.me/erfwp 6", server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] T.me/erfwp 7", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] T.me/erfwp 8", server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: "[SS] 🦉@FreeConfigForYou", server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] @filembad 7", server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] 🇳🇱 Join Telegram:@Farah_VPN 🇳🇱", server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] 🌝54@oneclickvpnkeys", server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: "[SS] TEL;FATHER_VPN²", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: "[SS] TM (@AZARBAYJAB1)", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
   - {name: "[SS] IR-@V2rayAlpha-1", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, tfo: false}
@@ -63,15 +107,47 @@ proxies:
   - {name: "[SS] @KAFING_2 3", server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., tfo: false}
   - {name: "[SS] 🫜10@oneclickvpnkeys", server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
   - {name: "[SS] @CUSTOMVPNSERVER 2", server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "[SS] T.me/erfwp 9", server: 82.38.31.149, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "[SS] T.me/erfwp 10", server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
   - {name: "[SS] 🌾 @ProxyVPN11 2", server: 82.38.31.155, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "[SS] @hi_proxy_iran :👈کانال تلگرام 2", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
+  - {name: "[SS] @meliproxyy 2", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false}
   - {name: "[SS] 🇮🇷@tanhant", server: 109.122.251.86, port: 20700, type: ss, cipher: chacha20-ietf-poly1305, password: pLGCPnj2WgzxX1IedW8yd7trwRlXqjLa, tfo: false}
   - {name: "[SS] @v2rayngzendegimamad🕊️ 8", server: 54.36.174.134, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pvgz9pq, tfo: false}
-  - {name: "[SS] 2https://t.me/ConfigX2ray", server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "[SS] 13https://t.me/ConfigX2ray", server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
-  - {name: "[SS] [65964] - Telegram : @V2All", server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] ⚡@V2ray_official 5", server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] 🇳🇱 t.me/Natrixo CC", server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, tfo: false}
+  - {name: "[SS] 🇬🇧 Join Telegram:@Farah_VPN 🇬🇧", server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "[SS] 🇺🇸 Join Telegram:@Farah_VPN 🇺🇸", server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "[SS] 🇺🇸 👉🆔@freenettir📡🇺🇸®️United States©️Dallas🅿️ping:146.66ms", server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
   - {name: "[SS] 🐏8@oneclickvpnkeys", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
-  - {name: "[SS] 🇮🇹34770 | ⚡️Telegram - t.me/SOSkeyNET", server: it5.taskflowhub.org, port: 2083, type: ss, cipher: aes-256-gcm, password: 34fItyZyz69uIrxkJ+cLR1pdclvG628pv8+fzUNTIC0=, tfo: false}
+  - {name: "[SS] 1🌝@oneclickvpnkeys", server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "[SS] 5🌝@oneclickvpnkeys", server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "[SS] 🇺🇸37262 | ⚡️Telegram - t.me/SOSkeyNET", server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "[SS] 🌝90@oneclickvpnkeys", server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "[SS] 🇺🇸37277 | ⚡️Telegram - t.me/SOSkeyNET", server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "[SS] 🌝95@oneclickvpnkeys", server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, tfo: false}
+  - {name: "[SS] 🌝38@oneclickvpnkeys", server: 217.30.10.70, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, tfo: false}
+  - {name: "[SS] 🇰🇷37245 | ⚡️Telegram - t.me/SOSkeyNET", server: p141.panda001.net, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, tfo: false}
+  - {name: "[SS] 𝗗𝗔𝗟𝗧𝗢𝗡 𝗣𝗜𝗡𝗚", server: it5.taskflowhub.org, port: 2083, type: ss, cipher: aes-256-gcm, password: 34fItyZyz69uIrxkJ+cLR1pdclvG628pv8+fzUNTIC0=, tfo: false}
+  - {name: "[SS] 🇯🇵37208 | ⚡️Telegram - t.me/SOSkeyNET", server: bgroup.node1.s.nodelist-airport.com, port: 53431, type: ss, cipher: aes-256-gcm, password: 504cb0be-b285-4ec5-9561-bc289aea0d46, tfo: false}
+  - {name: "[SS] 🇰🇷37210 | ⚡️Telegram - t.me/SOSkeyNET", server: bgroup.node2.s.nodelist-airport.com, port: 50001, type: ss, cipher: aes-256-gcm, password: 504cb0be-b285-4ec5-9561-bc289aea0d46, tfo: false}
+  - {name: "[SS] 🇰🇷37211 | ⚡️Telegram - t.me/SOSkeyNET", server: bgroup.node2.s2.nodelist-airport.com, port: 20002, type: ss, cipher: aes-256-gcm, password: 504cb0be-b285-4ec5-9561-bc289aea0d46, tfo: false}
+  - {name: "[SS] 🇰🇷37212 | ⚡️Telegram - t.me/SOSkeyNET", server: bgroup.node2.s2.nodelist-airport.com, port: 20002, type: ss, cipher: aes-256-gcm, password: 504cb0be-b285-4ec5-9561-bc289aea0d46, tfo: false}
+  - {name: "[SS] 🇸🇬37213 | ⚡️Telegram - t.me/SOSkeyNET", server: bgroup.node3.s.nodelist-airport.com, port: 50001, type: ss, cipher: aes-256-gcm, password: 504cb0be-b285-4ec5-9561-bc289aea0d46, tfo: false}
+  - {name: "[SS] 🇸🇬37216 | ⚡️Telegram - t.me/SOSkeyNET", server: bgroup.node3.s2.nodelist-airport.com, port: 54612, type: ss, cipher: aes-256-gcm, password: 504cb0be-b285-4ec5-9561-bc289aea0d46, tfo: false}
+  - {name: "[SS] 🇭🇰37214 | ⚡️Telegram - t.me/SOSkeyNET", server: bgroup.node4.s2.nodelist-airport.com, port: 28932, type: ss, cipher: aes-256-gcm, password: 504cb0be-b285-4ec5-9561-bc289aea0d46, tfo: false}
+  - {name: "[SS] 🇭🇰37215 | ⚡️Telegram - t.me/SOSkeyNET", server: bgroup.node4.s2.nodelist-airport.com, port: 28932, type: ss, cipher: aes-256-gcm, password: 504cb0be-b285-4ec5-9561-bc289aea0d46, tfo: false}
+  - {name: "[SS] 🇺🇸37209 | ⚡️Telegram - t.me/SOSkeyNET", server: bgroup.node5.s.nodelist-airport.com, port: 59167, type: ss, cipher: aes-256-gcm, password: 504cb0be-b285-4ec5-9561-bc289aea0d46, tfo: false}
+  - {name: "[SS] 🇺🇸37217 | ⚡️Telegram - t.me/SOSkeyNET", server: bgroup.node5.s2.nodelist-airport.com, port: 23122, type: ss, cipher: aes-256-gcm, password: 504cb0be-b285-4ec5-9561-bc289aea0d46, tfo: false}
+  - {name: "[SS] 🇪🇪 Join Telegram:@Farah_VPN 🇪🇪", server: 38.180.216.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, tfo: false}
+  - {name: "[SS] @filembad 8", server: 51.254.128.106, port: 2083, type: ss, cipher: aes-256-gcm, password: FjG3IPbny+0ZYU4/p1vULP84GcKpGoZpWKAay16VhIw=, tfo: false}
+  - {name: "[SS] 🇫🇷37374 | ⚡️Telegram - t.me/SOSkeyNET", server: 51.254.128.106, port: 2083, type: ss, cipher: aes-256-gcm, password: FjG3IPbny+0ZYU4/p1vULP84GcKpGoZpWKAay16VhIw=, tfo: false}
   - {name: "[SS] TEL;FATHER_VPN⁸", server: 47.82.148.244, port: 39715, type: ss, cipher: aes-256-gcm, password: IYgdNNDTvWPtQ2XtycquZONq2iEz4ZtEIIpHayAPUAMS, tfo: false}
-  - {name: "[SS] 🚀@V2ray_official", server: ir.npvnot.com, port: 10113, type: ss, cipher: aes-256-gcm, password: OTVmZDAxOWYwMTlmZWRmMjg0MDM5NmIxYTRlNDc2, tfo: false}
+  - {name: "[SS] 🇮🇹37286 | ⚡️Telegram - t.me/SOSkeyNET", server: 185.213.20.110, port: 700, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: "[SS] @hi_proxy_iran :👈کانال تلگرام 3", server: 185.213.20.110, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: "[SS] @meliproxyy 3", server: 185.213.20.110, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
+  - {name: "[SS] 🌝32@oneclickvpnkeys", server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, tfo: false}
   - {name: "[SS] @v2raybaaz 🌻", server: ir.npvnot.com, port: 10104, type: ss, cipher: aes-256-gcm, password: YTIzMmJmN2E3MTRkNjc0YzAxYjkzZWZiMTA4Yzdh, tfo: false}
-  - {name: "[SS] 🫜15@oneclickvpnkeys", server: 192.142.18.127, port: 443, type: ss, cipher: aes-256-gcm, password: d2890c8f-8d15-42b7-80e3-687fab8b2c7a, tfo: false}
+  - {name: "[SS] @hi_proxy_iran :👈کانال تلگرام 4", server: de1.3erveronline.com, port: 443, type: ss, cipher: aes-256-gcm, password: oSqiIattxewIyBwCWV93g6_CNFjd_8Lr, tfo: false}
+  - {name: "[SS] @meliproxyy 4", server: de1.3erveronline.com, port: 443, type: ss, cipher: aes-256-gcm, password: oSqiIattxewIyBwCWV93g6_CNFjd_8Lr, tfo: false}
+  - {name: "[SS] 🌪️Tel--@V2rayAlpha--2", server: de1.3erveronline.com, port: 443, type: ss, cipher: aes-256-gcm, password: oSqiIattxewIyBwCWV93g6_CNFjd_8Lr, tfo: false}
