@@ -9,11 +9,9 @@
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/mahsanet/_mtn_sub_1.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/lagzian_meta.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/lagzian/_meta.yaml|
-|[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/ermaozi.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/Epodonios.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/base64-encoder/Epodonios/0000.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/vpnclashfa-backup/SubConfigShuffler/itsyebekhe_PSG_trojan_cloudflare.txt.yaml|
-|[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/itsyebekhe/PSG/subscriptions/clash/trojan_domain.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/gheychiamoozesh.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/darkvpn/-clash.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/Epodonios/0000.yaml|
@@ -56,10 +54,12 @@
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/mahsanet_mtn_sub_1.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/mahsanet_mci_sub_3.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/mahsanet/_mci_sub_1.yaml|
+|[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/ermaozi.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/ebrasha/free-v2ray-public-list/vless_configs.txt.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/ebrasha/free-v2ray-public-list/all_extracted_configs.txt.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/MahsaNetConfigTopic.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/vpnserverrr.yaml|
+|[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/soskeynet.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/surfboard/theGreatPeter_nodes.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/surfboard/moneyfly1_merged_proxies.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/surfboard/mfuu.yaml|
@@ -73,6 +73,7 @@
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/amirparsaxs_xsfilternet.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/base64-encoder/Surfboardv2ray/_mahsa.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/vpnbaz.yaml|
+|[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/v2ray1_ng.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/spotify_porteghali.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/anty_filter.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/mfuu/clash.yaml|
@@ -98,7 +99,6 @@
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/Barabama_nodefree.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/base64-encoder/Surfboardv2ray/_ipv6.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/base64-encoder/MahsaNetConfigTopic.yaml|
-|[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/v2ray1_ng.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/surfboardv2ray.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/spotify_porteghali.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/surfboard/the3rf_com_sub_php.yaml|
@@ -130,8 +130,9 @@
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/itsyebekhe_TR.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/darkvpnapp_CloudflarePlus_proxy.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/Rayan-Config_H-III.yaml|
+|[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/Pawdroid/Free-servers/sub.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/base64-encoder/peasoft_list_raw.yaml|
-|[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/v2ray1_ng.yaml|
+|[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/configx2ray.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/vpnclashfa-backup/SubConfigShuffler/10ium_V2ray_HiNVPN_mix_cloudflare.txt.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/Rayan/-Config_H-III.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/base64-encoder/Surfboardv2ray/_ipv6.yaml|
@@ -153,16 +154,16 @@
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/base64-encoder/tristan-deng_MyNodes.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/base64-encoder/theGreatPeter_nodes.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/vpnbaz.yaml|
+|[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/v2ray1_ng.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/fr33c0nfig.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/anty_filter.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/vpnclashfa-backup/SubConfigShuffler/rayan_proxy.txt.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/mahsanet_mci_sub_4.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/mahsanet_mci_sub_2.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/ainita.yaml|
-|[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/Pawdroid/Free-servers/sub.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/Barabama_ndnode.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/soskeynet.yaml|
-|[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/lrnbymaa.yaml|
+|[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/configfa.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/capoit.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/vpnclashfa-backup/SubConfigShuffler/10ium_fetcher_cloudflare.txt.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/tristan-deng_MyNodes.yaml|
@@ -174,7 +175,8 @@
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/mahsanet/fakehost_ws80.json.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/ainita.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/base64-encoder/theGreatPeter_nodes.yaml|
-|[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/v2ray_vpn_ir.yaml|
+|[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/madshopx.yaml|
+|[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/lrnbymaa.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/fr33c0nfig.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/qiaomenzhuanfx_netlify_app.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/mahsanet/tlshello_ws443_noGeoip.json.yaml|
@@ -742,7 +744,6 @@
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/vless_config.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/v2ray_vpn_ir.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/speeds_vpn1.yaml|
-|[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/soskeynet.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/prooofsor.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/oxnet_ir.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/mrsoulb.yaml|
@@ -1640,6 +1641,7 @@
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/freeclash/-0.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/free18.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/fast_lycorisrecoil_org.yaml|
+|[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/ermaozi.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/ebrasha/free-v2ray-public-list/warp_subscribe_base64.txt.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/ebrasha/free-v2ray-public-list/warp_subscribe.txt.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/ebrasha/free-v2ray-public-list/warp_configs.txt.yaml|
@@ -2005,10 +2007,10 @@
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/mbtiuniverse.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/madshopx.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/lyricpixelart.yaml|
+|[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/lrnbymaa.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/kvetch_matin.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/freeconfigsplus.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/fr33c0nfig.yaml|
-|[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/configx2ray.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/configshubplus.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/conectvpn10.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/begzarvpn.yaml|
@@ -2844,6 +2846,7 @@
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/vpn4everyone.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/vlessconfight.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/vless_config.yaml|
+|[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/v2ray_vpn_ir.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/speeds_vpn1.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/prooofsor.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/oxnet_ir.yaml|
@@ -2851,7 +2854,6 @@
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/movie10_oficial.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/mitivpn.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/mbtiuniverse.yaml|
-|[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/madshopx.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/lyricpixelart.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/kvetch_matin.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/configshubplus.yaml|
@@ -3519,6 +3521,7 @@
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/10ium/base64-encoder/Rayan/-Config_H-II.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/10ium/base64-encoder/Rayan/-Config_H-I.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/10ium/base64-encoder/Rayan/-Config_ALL.yaml|
+|[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/10ium/base64-encoder/10ium_vmess_iran.txt.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/10ium/ScrapeAndCategorize/output_configs/WireGuard.txt.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/10ium/ScrapeAndCategorize/output_configs/Vmess.txt.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/10ium/ScrapeAndCategorize/output_configs/Vless.txt.yaml|
