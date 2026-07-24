@@ -7,7 +7,7 @@
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/HiN-VPN/subscription/source/base64/surfboardv2ray.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/surfboard/money.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/surfboard/mahsanet_mci_sub_1.yaml|
-|[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/surfboard/ShadowsocksM-MCI-Wifi.yaml|
+|[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/roosterkid/openproxylist/V2RAY_BASE64.txt.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/mahsanet/_mtn_sub_1.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/lagzian_meta.yaml|
 |[4]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/Epodonios.yaml|
@@ -67,10 +67,11 @@
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/surfboard/ainita.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/sssub/mfuu.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ssd/mfuu.yaml|
-|[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/roosterkid/openproxylist/V2RAY_BASE64.txt.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/mfuu/clash.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/mfuu.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/amirparsaxs_xsfilternet.yaml|
+|[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/Ruk1ng001.yaml|
+|[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/base64-encoder/peasoft_list_raw.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/soskeynet.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/mfuu/clash.yaml|
 |[3]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/mfuu.yaml|
@@ -121,11 +122,11 @@
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/vpnclashfa-backup/SubConfigShuffler/10ium_V2ray_HiNVPN_mix_cloudflare.txt.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/mahsanet/_mci_sub_1.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/Rayan/-Config_H-III.yaml|
+|[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/Pawdroid/Free-servers/sub.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/vpnbaz.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/anty_filter.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/vpnclashfa-backup/SubConfigShuffler/roosterkid_cloudflare.txt.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/vpnclashfa-backup/SubConfigShuffler/mahsanet_mtn3_cloudflare.txt.yaml|
-|[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/Leon406-hysteria2.yaml|
 |[2]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/clash/10ium/base64-encoder/Everyday-VPN.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/vpnclashfa-backup/SubConfigShuffler/10ium/fetcher/cloudflare.txt.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/theGreatPeter_nodes.yaml|
@@ -135,7 +136,6 @@
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/mahsanet/tlshello_ws443_IranBypass.json.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/mahsanet/fakehost_ws80.json.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/mahdibland/ShadowsocksAggregator/EternityAir.yaml|
-|[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/free18.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/Barabama_ndnode.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/base64-encoder/tristan-deng_MyNodes.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/10ium/base64-encoder/theGreatPeter_nodes.yaml|
@@ -143,11 +143,8 @@
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/vpnclashfa-backup/SubConfigShuffler/rayan_proxy.txt.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/mahsanet_mci_sub_4.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/mahsanet_mci_sub_2.yaml|
-|[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/ermaozi.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/ainita.yaml|
-|[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/Ruk1ng001.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/Barabama_ndnode.yaml|
-|[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/base64-encoder/peasoft_list_raw.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/vpnbaz.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/10ium/HiN-VPN/subscription/source/base64/anty_filter.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/vpnclashfa-backup/SubConfigShuffler/10ium_fetcher_cloudflare.txt.yaml|
@@ -159,7 +156,6 @@
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/mahsanet/tlshello_ws443_IranBypass.json.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/mahsanet/fakehost_ws80.json.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/ainita.yaml|
-|[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/Pawdroid/Free-servers/sub.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/base64-encoder/theGreatPeter_nodes.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/fr33c0nfig.yaml|
 |[1]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/mixed/10ium/HiN-VPN/subscription/source/base64/capoit.yaml|
@@ -373,7 +369,6 @@
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/freeclash/-2.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/freeclash/-1.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/freeclash/-0.yaml|
-|[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/firefoxmmx2.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/fast_lycorisrecoil_org.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/ebrasha/free-v2ray-public-list/warp_subscribe_base64.txt.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/v2ray/ebrasha/free-v2ray-public-list/warp_subscribe.txt.yaml|
@@ -1649,7 +1644,9 @@
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/freeclash/-1.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/freeclash/-0.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/free18.yaml|
+|[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/firefoxmmx2.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/fast_lycorisrecoil_org.yaml|
+|[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/ermaozi.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/ebrasha/free-v2ray-public-list/warp_subscribe_base64.txt.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/ebrasha/free-v2ray-public-list/warp_subscribe.txt.yaml|
 |[0]|https://github.com/PENZA84/Sub-Config-Extractor/blob/main/output_configs/ss/ebrasha/free-v2ray-public-list/warp_configs.txt.yaml|
